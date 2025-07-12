@@ -12,7 +12,8 @@ const Nav = (props) => {
       <div className="nav-container container-fluid d-flex justify-content-between align-items-center flex-wrap gap-3">
         <div className="logo" onClick={redirectToHomePage}>
           <img
-            src="src/assets/images/mini_gaminBox_PNG.png"
+            // src="src/assets/images/mini_gaminBox_PNG.png"
+            src="https://github.com/ArunS-1010/mini-gaminbox/blob/main/src/assets/images/mini_gaminBox_PNG.png?raw=true"
             alt="Mini-GaminBox"
             width={180}
           />

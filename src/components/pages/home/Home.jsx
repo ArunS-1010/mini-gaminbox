@@ -9,7 +9,7 @@ const Home = () => {
       <div className="p-5 d-flex flex-wrap gap-5 justify-content-center">
         <Card
           title="Rock Paper Scissors"
-          category="Strategy"
+          category="Casual"
           pageLink="rock-paper-scissors"
         />{' '}
         <Card /> <Card /> <Card /> <Card /> <Card /> <Card /> <Card /> <Card />
