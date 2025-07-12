@@ -1,0 +1,11 @@
+1. Login/Signup ( with username and password ) // store it in Mongo DB
+2. Main screen with cards ( Welcome username and search bar at top corner, list of games in the body )
+3. Game interfafces ( for each game with its highscore, exit button at top corner, Add Favourite , Rating with emoji happy neutral sad, like dislike thumbs icons ) 
+4. Footer ( can be linked to LinkdIn and other contents )
+
+ref:
+1. https://gameforge.com/en-US/littlegames/
+
+2. https://www.crazygames.com/t/mini  
+
+
